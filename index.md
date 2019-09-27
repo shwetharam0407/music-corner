@@ -7,3 +7,4 @@
 #
 layout: home
 ---
+<img src="/data/img/music_corner.JPG" >
