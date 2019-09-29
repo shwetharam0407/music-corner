@@ -8,6 +8,6 @@
 layout: home
 ---
 
-#### Check out [my rendition of the Brindavani Thillana](https://www.youtube.com/watch?v=v9seQE_TBrw) during the Deepavali celebrations at work!
+#### Check out [my rendition of the Brindavani Thillana](https://www.youtube.com/watch?v=v9seQE_TBrw) during Deepavali celebrations at work!
 
 ![ ](data/img/music_corner.JPG)
