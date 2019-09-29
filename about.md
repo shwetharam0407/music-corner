@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![ ](/data/img/profile_pic.PNG){: width="150px"}
+![ ](../data/img/profile_pic.PNG){: width="150px"}
 
 Carnatic music is one of the two main subgenres of Indian classical music, practised in south India. I was fortunate to have been introduced to it when I was little and my Carnatic Vocal training began at the age of four. Since then, music has been an amazing companion that I can always turn to, for comfort and inspiration. It never gave up on me even when I, busy with other things, almost gave up on it. 
 
