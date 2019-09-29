@@ -4,7 +4,7 @@ email: shwetharam0407@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
   Carnatic Vocalist. Disciple of Dr. T S Sathyavathi.
 
-baseurl: /test-music-corner/
+baseurl: /music-corner
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
