@@ -24,3 +24,5 @@ permalink: /subscribe/
 </div>
 
 <!--End mc_embed_signup-->
+
+![ ](../data/img/music_corner.JPG)
