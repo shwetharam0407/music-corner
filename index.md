@@ -7,7 +7,13 @@
 #
 layout: home
 ---
+<iframe width="420" height="315" frameborder="0" allowfullscreen
+src="https://www.youtube.com/embed/v9seQE_TBrw">
+</iframe>
 
-#### Check out [my rendition of the Brindavani Thillana](https://www.youtube.com/watch?v=v9seQE_TBrw) during Deepavali celebrations at work!
 
-![ ](data/img/music_corner.JPG)
+<iframe width="420" height="315" frameborder="0" allowfullscreen
+src="https://www.youtube.com/embed/-M2WhNNo6Hw">
+</iframe>
+
+ 
