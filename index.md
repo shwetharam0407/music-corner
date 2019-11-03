@@ -7,15 +7,11 @@
 #
 layout: home
 ---
-<div style="float:left;">
-<iframe width="400" height="250" frameborder="0" allowfullscreen
-src="https://www.youtube.com/embed/v9seQE_TBrw">
-</iframe>
+<div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v9seQE_TBrw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
-<div style="float:right;">
-<iframe width="400" height="250" frameborder="0" allowfullscreen
-src="https://www.youtube.com/embed/-M2WhNNo6Hw">
-</iframe>
+<div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-M2WhNNo6Hw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
