@@ -105,25 +105,19 @@ permalink: /subscribe/
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 4</div>
-  <img src="../data/img/music_corner.JPG" style="width:100%">
-  <div class="text">My Music Corner</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">2 / 4</div>
+  <div class="numbertext">1 / 3</div>
   <img src="../data/img/DSC_9560.JPG" style="width:100%">
   <div class="text">Deepavali 2015 - Santa Barbara</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 4</div>
+  <div class="numbertext">2 / 3</div>
   <img src="../data/img/IMG_1210.JPG" style="width:100%">
   <div class="text">SPICMACAY Aradhana - NITK</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">4 / 4</div>
+  <div class="numbertext">3 / 3</div>
   <img src="../data/img/aradhana_2012.jpg" style="width:100%">
   <div class="text">SPICMACAY Aradhana - NITK</div>
 </div>
@@ -132,7 +126,6 @@ permalink: /subscribe/
 <br>
 
 <div style="text-align:center">
-  <span class="dot"></span> 
   <span class="dot"></span> 
   <span class="dot"></span> 
   <span class="dot"></span> 
