@@ -35,7 +35,7 @@ permalink: /subscribe/
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 500px;
+  max-width: 400px;
   position: relative;
   margin: auto;
 }
