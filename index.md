@@ -7,38 +7,53 @@
 #
 layout: home
 ---
-<div align="left">
-<p style="position: relative; padding: 0px 0px 56.25% 0px; height: 0; overflow: hidden; max-width:540px;">
-<iframe  width="100%" height="80%" src="https://www.youtube.com/embed/v9seQE_TBrw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-</div>
 
-<div align="right">
-<p style="position: relative; padding: 0px 0px 56.25% 0px; height: 0; overflow: hidden; max-width:540px;">
-<iframe  width="100%" height="80%" src="https://www.youtube.com/embed/AGduT2AJ1W4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-</div>
+<html>
+<style>
 
-<div align="left">
-<p style="position: relative; padding: 0px 0px 56.25% 0px; height: 0; overflow: hidden; max-width:540px;">
-<iframe width="100%" height="80%" src="https://www.youtube.com/embed/r9RXXpQ5fgc" frameborder="0"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-</div>
+.thumbnail
+{
+    position: relative;
+}
 
-<div align="right">
-<p style="position: relative; padding: 0px 0px 56.25% 0px; height: 0; overflow: hidden; max-width:540px;">
-<iframe width="100%" height="80%" src="https://www.youtube.com/embed/-M2WhNNo6Hw" frameborder="0"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-</div>
+.thumbnail_title
+{
+    position: absolute;
+    top: 75px;
+    left: 20%;
+    color: white;
+}
 
-<div align="left">
-<p style="position: relative; padding: 0px 0px 56.25% 0px; height: 0; overflow: hidden; max-width:540px;">
-<iframe width="100%" height="80%" src="https://www.youtube.com/embed/d_qNYjjZoTw" frameborder="0"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-</div>
+.thumbnail:hover
+{
+    opacity: 0.5;
+}
+</style>
 
-<div align="right">
-<p style="position: relative; padding: 0px 0px 56.25% 0px; height: 0; overflow: hidden; max-width:540px;">
-<iframe width="100%" height="80%" src="https://www.youtube.com/embed/WB8G9aS_KiI" frameborder="0"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-</div>
+<a class="thumbnail" href="http://www.youtube.com/watch?feature=player_embedded&v=v9seQE_TBrw
+" target="_blank"><img src="http://img.youtube.com/vi/v9seQE_TBrw/hqdefault.jpg" 
+alt="Brindavani Thillana" width="240" height="180" border="0" />  <p class="thumbnail_title"> Brindavani Thillana </p> </a>
+
+<a class="thumbnail" href="http://www.youtube.com/watch?feature=player_embedded&v=r9RXXpQ5fgc
+" target="_blank"><img src="http://img.youtube.com/vi/r9RXXpQ5fgc/hqdefault.jpg" 
+alt="Deepavu Ninnade Gaaliyu Ninnade - Bhaavageethe" width="240" height="180" border="0" /> <p class="thumbnail_title"> Deepavu Ninnade </p> </a>
+
+<a class="thumbnail" href="http://www.youtube.com/watch?feature=player_embedded&v=AGduT2AJ1W4
+" target="_blank"><img src="http://img.youtube.com/vi/AGduT2AJ1W4/hqdefault.jpg" 
+alt="Nalinakanthi Varnam" width="240" height="180" border="0" /> <p class="thumbnail_title"> Nalinakanthi Varnam </p> </a>
+
+<br><br>
+
+<a class="thumbnail" href="http://www.youtube.com/watch?feature=player_embedded&v=WB8G9aS_KiI
+" target="_blank"><img src="http://img.youtube.com/vi/WB8G9aS_KiI/hqdefault.jpg" 
+alt="Ede Thumbi Haadidenu - Bhaavageethe" width="240" height="180" border="0" /> <p class="thumbnail_title"> Ede Thumbi Haadidenu </p> </a>
+
+<a class="thumbnail" href="http://www.youtube.com/watch?feature=player_embedded&v=-M2WhNNo6Hw
+" target="_blank"><img src="http://img.youtube.com/vi/-M2WhNNo6Hw/hqdefault.jpg" 
+alt="Karunaalu Baa Belake - Bhaavageethe" width="240" height="180" border="0" /> <p class="thumbnail_title"> Karunaalu Baa Belake </p> </a>
+
+<a class="thumbnail" href="http://www.youtube.com/watch?feature=player_embedded&v=d_qNYjjZoTw
+" target="_blank"><img src="http://img.youtube.com/vi/d_qNYjjZoTw/hqdefault.jpg" 
+alt="Kolalanudi Mohipudanu Kalisu - Kuvempu Bhaavageethe" width="240" height="180" border="0" /> <p class="thumbnail_title"> Kolalanudi Mohipudanu Kalisu </p> </a>
+
+</html>
